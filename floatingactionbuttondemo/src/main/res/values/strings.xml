@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FloatingActionBarDemo</string>
+    <array name="data">
+        <item>AAAAAAA</item>
+        <item>AAAAAAA</item>
+        <item>AAAAAAA</item>
+        <item>AAAAAAA</item>
+        <item>AAAAAAA</item>
+        <item>AAAAAAA</item>
+        <item>AAAAAAA</item>
+        <item>AAAAAAA</item>
+        <item>AAAAAAA</item>
+    </array>
+</resources>

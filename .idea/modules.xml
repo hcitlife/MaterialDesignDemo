@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MaterialDesignDemo.iml" filepath="$PROJECT_DIR$/MaterialDesignDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appbarlayoutdemo/appbarlayoutdemo.iml" filepath="$PROJECT_DIR$/appbarlayoutdemo/appbarlayoutdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cardviewdemo/cardviewdemo.iml" filepath="$PROJECT_DIR$/cardviewdemo/cardviewdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collapsingtoolbarlayout/collapsingtoolbarlayout.iml" filepath="$PROJECT_DIR$/collapsingtoolbarlayout/collapsingtoolbarlayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/floatingactionbuttondemo/floatingactionbuttondemo.iml" filepath="$PROJECT_DIR$/floatingactionbuttondemo/floatingactionbuttondemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/navigationviewdemo1/navigationviewdemo1.iml" filepath="$PROJECT_DIR$/navigationviewdemo1/navigationviewdemo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nestedscrollviewdemo/nestedscrollviewdemo.iml" filepath="$PROJECT_DIR$/nestedscrollviewdemo/nestedscrollviewdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recyclerviewdemo_gridview/recyclerviewdemo_gridview.iml" filepath="$PROJECT_DIR$/recyclerviewdemo_gridview/recyclerviewdemo_gridview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recyclerviewdemo_listview/recyclerviewdemo_listview.iml" filepath="$PROJECT_DIR$/recyclerviewdemo_listview/recyclerviewdemo_listview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recyclerviewdemo_listview0/recyclerviewdemo_listview0.iml" filepath="$PROJECT_DIR$/recyclerviewdemo_listview0/recyclerviewdemo_listview0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recyclerviewdemo_staggeredgridview/recyclerviewdemo_staggeredgridview.iml" filepath="$PROJECT_DIR$/recyclerviewdemo_staggeredgridview/recyclerviewdemo_staggeredgridview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/snackbardemo/snackbardemo.iml" filepath="$PROJECT_DIR$/snackbardemo/snackbardemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swiperefreshlayoutdemo/swiperefreshlayoutdemo.iml" filepath="$PROJECT_DIR$/swiperefreshlayoutdemo/swiperefreshlayoutdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tablayoutdemo/tablayoutdemo.iml" filepath="$PROJECT_DIR$/tablayoutdemo/tablayoutdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tablayoutdemo2/tablayoutdemo2.iml" filepath="$PROJECT_DIR$/tablayoutdemo2/tablayoutdemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/textinputlayoutdemo/textinputlayoutdemo.iml" filepath="$PROJECT_DIR$/textinputlayoutdemo/textinputlayoutdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toolbardemo/toolbardemo.iml" filepath="$PROJECT_DIR$/toolbardemo/toolbardemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toolbardemo2/toolbardemo2.iml" filepath="$PROJECT_DIR$/toolbardemo2/toolbardemo2.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="D:\Applications\Android\Android Studio\gradle\gradle-2.10" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/appbarlayoutdemo" />
+            <option value="$PROJECT_DIR$/cardviewdemo" />
+            <option value="$PROJECT_DIR$/collapsingtoolbarlayout" />
+            <option value="$PROJECT_DIR$/floatingactionbuttondemo" />
+            <option value="$PROJECT_DIR$/navigationviewdemo1" />
+            <option value="$PROJECT_DIR$/nestedscrollviewdemo" />
+            <option value="$PROJECT_DIR$/recyclerviewdemo_gridview" />
+            <option value="$PROJECT_DIR$/recyclerviewdemo_listview" />
+            <option value="$PROJECT_DIR$/recyclerviewdemo_listview0" />
+            <option value="$PROJECT_DIR$/recyclerviewdemo_staggeredgridview" />
+            <option value="$PROJECT_DIR$/snackbardemo" />
+            <option value="$PROJECT_DIR$/swiperefreshlayoutdemo" />
+            <option value="$PROJECT_DIR$/tablayoutdemo" />
+            <option value="$PROJECT_DIR$/tablayoutdemo2" />
+            <option value="$PROJECT_DIR$/textinputlayoutdemo" />
+            <option value="$PROJECT_DIR$/toolbardemo" />
+            <option value="$PROJECT_DIR$/toolbardemo2" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/appbarlayoutdemo" />
+            <option value="$PROJECT_DIR$/cardviewdemo" />
+            <option value="$PROJECT_DIR$/collapsingtoolbarlayout" />
+            <option value="$PROJECT_DIR$/floatingactionbuttondemo" />
+            <option value="$PROJECT_DIR$/navigationviewdemo1" />
+            <option value="$PROJECT_DIR$/nestedscrollviewdemo" />
+            <option value="$PROJECT_DIR$/recyclerviewdemo_gridview" />
+            <option value="$PROJECT_DIR$/recyclerviewdemo_listview" />
+            <option value="$PROJECT_DIR$/recyclerviewdemo_listview0" />
+            <option value="$PROJECT_DIR$/recyclerviewdemo_staggeredgridview" />
+            <option value="$PROJECT_DIR$/snackbardemo" />
+            <option value="$PROJECT_DIR$/swiperefreshlayoutdemo" />
+            <option value="$PROJECT_DIR$/tablayoutdemo" />
+            <option value="$PROJECT_DIR$/tablayoutdemo2" />
+            <option value="$PROJECT_DIR$/textinputlayoutdemo" />
+            <option value="$PROJECT_DIR$/toolbardemo" />
+            <option value="$PROJECT_DIR$/toolbardemo2" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

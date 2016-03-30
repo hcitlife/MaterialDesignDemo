@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ToolbarDemo2</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string-array name="data">
+        <item>相册</item>
+        <item>收藏</item>
+        <item>钱包</item>
+        <item>优惠券</item>
+        <item>表情</item>
+        <item>设置</item>
+    </string-array>
+</resources>

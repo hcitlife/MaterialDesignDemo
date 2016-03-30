@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NestedScrollViewDemo</string>
+    <string name="beiJing">北京（Beijing），简称京，中华人民共和国首都、直辖市、国家中心城市、超大城市，全国政治中心、文化中心、国际交往中心、科技创新中心，是中国共产党中央委员会、中华人民共和国中央人民政府和全国人民代表大会的办公所在地</string>
+    <string name="shangHai">上海，简称“沪”或“申”，中华人民共和国直辖市，中国国家中心城市，中国的经济、金融、贸易、航运中心，首批沿海开放城市。地处长江入海口，隔东中国海与日本九州岛相望，南濒杭州湾，西与江苏、浙江两省相接。</string>
+    <string name="guangZhou">广州历史上名称有南海郡（前 汉、晋 代、隋 代）、番禺、广州都督府（唐）、广州（宋）、广州路、广州府、番州、兴王府、广州市等。</string>
+</resources>
